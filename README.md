@@ -11,7 +11,7 @@ Hi there! I'm a student passionate about Computer Science and Mathematics. Curre
 ## 🚀 Tools and Technologies
 
 ### 🛠️ What I Know:
-- **Programming Languages**: C++, JavaScript, Java, 
+- **Programming Languages**: C++, JavaScript, Java, LUAU
 - **Web Development**: Next.js, Tailwind CSS, NodeJS
 - **Hardware & Consepts & Tools**: Linux systems, nginx, Cloudflare
 
