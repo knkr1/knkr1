@@ -18,7 +18,7 @@ Hi there! I'm a student passionate about Computer Science and Mathematics. Curre
 ### 🌱 Currently Learning:
 - **Languages**: Python (Advanced),Rust
 - **Tools**: Next.JS, Docker,
-- **Hardware & Concepts**: SDRs, PID, Modern Radio Technologies, DevOps, Microcontrollers
+- **Hardware & Concepts**: SDRs, PID, Modern Radio Technologies, DevOps, Microcontrollers, Deep Learning 
 
 ---
 
