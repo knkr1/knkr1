@@ -7,14 +7,14 @@
 ## 🚀 Tools and Technologies
 
 ### 🛠️ What I Know:
-- **Programming Languages**: C++, JavaScript, Java, LUAU
+- **Programming Languages**: C++, JavaScript, Java, LUAU, Python
 - **Web Development**: Next.js, Tailwind CSS, NodeJS
 - **Hardware & Consepts & Tools**: Linux systems, nginx, Cloudflare
 
 ### 🌱 Currently Learning:
-- **Languages**: Python (Advanced),Rust
-- **Tools**: Next.JS, Docker,
-- **Hardware & Concepts**: SDRs, PID, Modern Radio Technologies, DevOps, Microcontrollers, Deep Learning 
+- **Languages**: Rust
+- **Tools**: Next.JS (advanced), Docker
+- **Hardware & Concepts**: SDRs, Modern Radio Technologies, Microcontrollers, Deep Learning 
 
 ---
 
