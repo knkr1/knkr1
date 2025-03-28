@@ -2,11 +2,7 @@
   <img src="https://github.com/knkr1.png" alt="Profile Picture" width="150" height="150">
 </p>
 
-<h1 align="center">Kaan</h1>
-
-Hi there! I'm a student passionate about Computer Science and Mathematics. Currently diving deep into building impactful projects.
-
----
+<h1 align="center">knkr (aka. karesi)</h1>
 
 ## 🚀 Tools and Technologies
 
