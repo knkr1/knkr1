@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats & Widgets
 
-![Kaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=knkr1&show_icons=true&theme=radical)
+![knkr1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=knkr1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knkr1&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=knkr1&color=blue)
