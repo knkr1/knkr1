@@ -4,8 +4,6 @@
 
 <h1 align="center">knkr (aka. karesi)</h1>
 
-## 🚀 Tools and Technologies
-
 ### 🛠️ What I Know:
 - **Programming Languages**: C++, JavaScript, Java, LUAU, Python
 - **Web Development**: Next.js, Tailwind CSS, NodeJS
@@ -13,8 +11,8 @@
 
 ### 🌱 Currently Learning:
 - **Languages**: Rust
-- **Tools**: Next.JS (advanced), Docker
-- **Hardware & Concepts**: SDRs, Modern Radio Technologies, Microcontrollers, Deep Learning 
+- **Tools**: Next.JS (advanced), Docker, OpenGL
+- **Hardware & Concepts**: Modern Radio Technology, Deep Learning 
 
 ---
 
