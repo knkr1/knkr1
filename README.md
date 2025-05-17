@@ -6,13 +6,13 @@
 
 ### 🛠️ What I Know:
 - **Programming Languages**: C++, JavaScript, Java, LUAU, Python
-- **Web Development**: Next.js, Tailwind CSS, NodeJS
+- **Web Development**: Tailwind CSS, NodeJS
 - **Hardware & Consepts & Tools**: Linux systems, nginx, Cloudflare
 
 ### 🌱 Currently Learning:
 - **Languages**: Rust
-- **Tools**: Next.JS (advanced), Docker, OpenGL
-- **Hardware & Concepts**: Modern Radio Technology, Deep Learning 
+- **Tools**: Docker, OpenGL
+- **Hardware & Concepts**: pytorch
 
 ---
 
