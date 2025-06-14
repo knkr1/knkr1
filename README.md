@@ -1,5 +1,3 @@
-<h1 align="center">knkr (aka. karesi) </h1>
-
 ### About Me
 
 Hey, I'm a programmer mostly working on **Roblox games** using **Luau**.  
