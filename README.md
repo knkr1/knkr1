@@ -1,4 +1,5 @@
 ### About Me
 
 
-Messing around with **LUAU**, **OpenGL**, **CAD** (figuring things out).
+Messing around with **LUAU**, **OpenGL**, **CAD**.
+Discord: @kar.esi 
